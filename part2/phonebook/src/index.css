@@ -1,0 +1,22 @@
+
+
+.notification {
+  font-size: 18px;
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  background: #dff0d8;
+  border-color: green;
+
+}
+
+.error {
+  color: red;
+  background-color: #f2dede;
+  border-color: red;
+}
